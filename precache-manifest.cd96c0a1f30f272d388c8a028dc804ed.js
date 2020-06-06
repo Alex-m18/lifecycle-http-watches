@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d28ced22447348c88409746af08e2d1",
+    "revision": "39b4b677180464197d95dc6cdd770911",
     "url": "/ra16-lifecycle-http-watches/index.html"
   },
   {
