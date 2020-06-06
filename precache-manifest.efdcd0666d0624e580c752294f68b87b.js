@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "686aa0a634412d7278bc17dfff562b26",
+    "revision": "cbf44f70226c43d1bd44cd9091bf400a",
     "url": "/ra16-lifecycle-http-watches/index.html"
   },
   {
-    "revision": "30d6539e4c8be09b460f",
-    "url": "/ra16-lifecycle-http-watches/static/css/main.ee73e2eb.chunk.css"
+    "revision": "0856d4d82a6ff2d235a1",
+    "url": "/ra16-lifecycle-http-watches/static/css/main.e2775c4f.chunk.css"
   },
   {
     "revision": "a79d45be32ded61b0eaa",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ra16-lifecycle-http-watches/static/js/2.f9d82f25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30d6539e4c8be09b460f",
+    "revision": "0856d4d82a6ff2d235a1",
     "url": "/ra16-lifecycle-http-watches/static/js/main.fa0cc842.chunk.js"
   },
   {
